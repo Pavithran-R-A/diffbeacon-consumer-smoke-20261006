@@ -1,0 +1,9 @@
+{
+  "name": "smoke-consumer-app",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "synthetic-left-pad": "1.0.0"
+  }
+}
